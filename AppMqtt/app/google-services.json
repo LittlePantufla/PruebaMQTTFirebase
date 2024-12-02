@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702749282068",
+    "project_id": "pruebamqttfirebase",
+    "storage_bucket": "pruebamqttfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702749282068:android:d06ec5c141df5958effc01",
+        "android_client_info": {
+          "package_name": "com.stomas.appmqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRMAjXv8fFL7GkwxP0Odl5UZs3-vwLs5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
